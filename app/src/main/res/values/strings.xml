@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SQLLiteTutorial</string>
+    <string name="input_your_name_bastard">Input your name, bastard</string>
+    <string name="your_phone_number">your phone number</string>
+    <string name="msg_cannot_allow_empty_field">Cannot allow empty field</string>
+    <string name="lbl_update_data_pop_up">Update Data!</string>
+    <string name="lbl_choose_an_id">Choose an ID</string>
+    <string name="hint_update_phone_number">Update phone number</string>
+    <string name="hint_update_name">Update name</string>
+    <string name="lbl_save">Save</string>
+    <string name="lbl_ok">OK</string>
+</resources>
